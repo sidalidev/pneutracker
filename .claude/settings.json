@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "deny": [
+      "Edit(config/packages/security.yaml)",
+      "Edit(migrations/*.php)",
+      "Bash(rm -rf *)",
+      "Bash(DROP TABLE)"
+    ]
+  }
+}
