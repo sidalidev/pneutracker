@@ -4,3 +4,8 @@ var/
 .env.local
 .phpunit.result.cache
 dist/
+/api/vendor/
+/api/var/
+/api/.env.local
+/web/node_modules/
+/web/dist/
